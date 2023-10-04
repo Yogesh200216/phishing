@@ -1,0 +1,459 @@
+._5kxd {
+	background: rgb(245, 246, 247); border-radius: 3px; border: 1px solid rgb(209, 210, 213); border-image: none; clear: left;
+}
+._5kxe {
+	background: rgb(255, 255, 255); padding: 10px 14px; font-size: 14px;
+}
+._5kxe img {
+	margin-right: 8px;
+}
+._e4b {
+	padding: 0px 5px 4px;
+}
+html .fbTimelineUnit ._1m6c {
+	margin: 0px;
+}
+.fbTimelineStickyHeader {
+	top: 43px; z-index: 201;
+}
+.privateSharingConfirmationBar.fbTimelineStickyHeader {
+	top: 108px;
+}
+.fbTimelineStickyHeaderLargerBlueBar.fbTimelineStickyHeader {
+	top: 49px;
+}
+.privateSharingConfirmationBar.fbTimelineStickyHeaderLargerBlueBar.fbTimelineStickyHeader {
+	top: 114px;
+}
+.fbTimelineStickyHeaderNonFixedBlueBar.fbTimelineStickyHeaderNonFixedBlueBar.fbTimelineStickyHeader {
+	top: 0px;
+}
+.collapsedHead .fbTimelineStickyHeaderHidden {
+	display: none;
+}
+.tinyViewport .collapsedHead .fbTimelineStickyHeader {
+	display: block;
+}
+body.hasVoiceBar .fbTimelineStickyHeader {
+	padding-top: 25px;
+}
+body.hasViewasChromeBar .fbTimelineStickyHeader {
+	padding-top: 35px;
+}
+.fbTimelineStickyHeaderHidden {
+	width: 1px; height: 1px; overflow: hidden;
+}
+.fbTimelineStickyHeaderAnimating {
+	height: auto; overflow: visible;
+}
+.collapsedHead {
+	box-shadow: none;
+}
+.collapsedHead #fbProfileCover {
+	height: 47px; margin-bottom: -1px;
+}
+.collapsedHead #fbProfileCover h2 {
+	font-size: 17px; margin-top: 14px; margin-bottom: 10px; margin-left: 63px; white-space: nowrap;
+}
+.collapsedHead #fbProfileCover .coverNoImage {
+	height: 0px;
+}
+.collapsedHead #fbProfileCover .coverWrap {
+	height: 0px;
+}
+.collapsedHead #fbProfileCover .profilePicThumb {
+	background: none; left: 11px; margin-top: 2px; box-shadow: none;
+}
+.collapsedHead #fbProfileCover .profilePic {
+	width: 32px; height: 32px;
+}
+.collapsedHead #fbProfileCover .leftPic {
+	width: 0px; visibility: hidden;
+}
+.collapsedHead #fbProfileCover .rightPic {
+	width: 0px; visibility: hidden;
+}
+.collapsedHead #fbProfileCoverPhotoSelector {
+	display: none;
+}
+.collapsedHead #fbProfileCover .alternate_name {
+	display: none;
+}
+.collapsedHead #fbProfileCover .presenceIndicator {
+	display: none;
+}
+.fbTimelineStickyHeader .stickyHeaderWrap {
+	width: 851px; position: absolute;
+}
+.fbTimelineStickyHeader .back {
+	position: relative;
+}
+.fbTimelineStickyHeader .actions {
+	position: relative;
+}
+.fbTimelineStickyHeader .name {
+	position: relative;
+}
+.fbTimelineStickyHeader .back {
+	border-width: 0px 1px 1px; border-style: none solid solid; border-color: currentColor rgb(229, 229, 229) rgb(229, 229, 229); border-radius: 0px 0px 2px 2px; border-image: none; width: 849px; height: 47px; position: absolute; background-color: rgb(255, 255, 255);
+}
+.fbTimelineStickyHeader .actions {
+	padding: 10px 12px; float: right;
+}
+.fbTimelineStickyHeader .name {
+	padding: 8px 12px; float: left; display: block; white-space: nowrap; -ms-word-wrap: normal; -ms-text-overflow: ellipsis;
+}
+.fbStickyHeaderBreadcrumb {
+	margin-top: 3px; margin-left: 10px;
+}
+html #globalContainer .fbStickyHeaderBreadcrumb .uiButton .uiButtonText {
+	line-height: 18px; padding-top: 0px; font-size: 13px;
+}
+html #globalContainer .fbStickyHeaderBreadcrumb .uiButton input {
+	line-height: 18px; padding-top: 0px; font-size: 13px;
+}
+.fbStickyHeaderBreadcrumb .uiButton {
+	height: 19px; line-height: 19px;
+}
+.fbStickyHeaderBreadcrumb .nameButton .uiButtonText {
+	overflow: hidden; -ms-word-wrap: normal; -ms-text-overflow: ellipsis; max-width: 190px !important;
+}
+.fbTimelineStickyHeader .name .profileThumb {
+	height: 32px; margin-top: -1px; float: left; display: block;
+}
+.fbTimelineStickyHeader .name .profileThumb .img {
+	width: 32px; height: 32px; display: inline-block;
+}
+#fbProfileCover .fbTimelineStickyHeader .fbTimelineConnectButtonGroup .uiButtonConfirm {
+	border-color: rgb(54, 88, 153); background-color: rgb(109, 132, 180);
+}
+.fbTimelineStickyHeaderAnimating.fbTimelineStickyHeaderHidden .name {
+	display: block;
+}
+.fbTimelineStickyHeaderAnimating.fbTimelineStickyHeaderHidden .actions {
+	display: block;
+}
+.uiButton {
+	padding: 2px 6px; border-radius: 2px; text-align: center; line-height: 18px; font-size: 12px; font-weight: bold; text-decoration: none; vertical-align: top; display: inline-block; white-space: nowrap; cursor: pointer; text-shadow: none;
+}
+.uiButton {
+	border: 1px solid rgb(204, 208, 213); border-image: none; background-color: rgb(245, 246, 247);
+}
+.uiButtonSuppressed:active {
+	border: 1px solid rgb(204, 208, 213); border-image: none; background-color: rgb(245, 246, 247);
+}
+.uiButtonSuppressed:focus {
+	border: 1px solid rgb(204, 208, 213); border-image: none; background-color: rgb(245, 246, 247);
+}
+.uiButtonSuppressed:hover {
+	border: 1px solid rgb(204, 208, 213); border-image: none; background-color: rgb(245, 246, 247);
+}
+.uiButton + .uiButton {
+	margin-left: 4px;
+}
+.uiButton:hover {
+	text-decoration: none; background-color: rgb(235, 237, 240);
+}
+.uiButton:active {
+	border-color: rgb(190, 195, 201); background-color: rgb(221, 223, 226);
+}
+.uiButtonDepressed {
+	border-color: rgb(190, 195, 201); background-color: rgb(221, 223, 226);
+}
+.uiButton .img {
+	overflow: hidden; margin-top: 3px; vertical-align: top;
+}
+.uiButtonLarge .img {
+	margin-top: 4px;
+}
+.uiButton .customimg {
+	margin-top: 1px;
+}
+.uiButtonText {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(75, 79, 86); line-height: 18px; font-family: Helvetica, Arial, sans-serif; font-size: 12px; font-weight: bold; display: inline-block; white-space: nowrap; cursor: pointer;
+}
+.uiButton input {
+	background: none; margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; color: rgb(75, 79, 86); line-height: 18px; font-family: Helvetica, Arial, sans-serif; font-size: 12px; font-weight: bold; display: inline-block; white-space: nowrap; cursor: pointer;
+}
+.uiButtonOverlay {
+	border-color: rgba(0, 0, 0, 0.35); border-radius: 2px; position: relative; background-image: none; background-clip: padding-box; background-color: rgba(255, 255, 255, 0.8);
+}
+.uiButtonOverlay:hover {
+	border-color: rgba(0, 0, 0, 0.35); border-radius: 2px; position: relative; background-image: none; background-clip: padding-box; background-color: rgba(255, 255, 255, 0.8);
+}
+.uiButtonOverlay:focus {
+	border-color: rgba(59, 89, 152, 0.5); background-color: rgba(249, 250, 252, 0.9);
+}
+.uiButtonOverlay:active {
+	border-color: rgba(59, 89, 152, 0.5); background-color: rgba(249, 250, 252, 0.9);
+}
+form.async_saving .uiButtonOverlay.uiButton {
+	border-color: rgba(180, 180, 180, 0.8); background-color: rgba(255, 255, 255, 0.8);
+}
+.uiButtonDisabled.uiButtonOverlay {
+	border-color: rgba(180, 180, 180, 0.8); background-color: rgba(255, 255, 255, 0.8);
+}
+.uiButtonDisabled.uiButtonOverlay:active {
+	border-color: rgba(180, 180, 180, 0.8); background-color: rgba(255, 255, 255, 0.8);
+}
+.uiButtonDisabled.uiButtonOverlay:focus {
+	border-color: rgba(180, 180, 180, 0.8); background-color: rgba(255, 255, 255, 0.8);
+}
+.uiButtonDisabled.uiButtonOverlay:hover {
+	border-color: rgba(180, 180, 180, 0.8); background-color: rgba(255, 255, 255, 0.8);
+}
+.uiButtonDepressed.uiButtonOverlay {
+	background-color: rgba(0, 0, 0, 0.05);
+}
+.uiButtonOverlay::before {
+	left: 0px; top: 0px; right: 0px; bottom: 0px; position: absolute; content: ""; background-color: rgba(0, 0, 0, 0.02);
+}
+.uiButtonOverlay:hover::before {
+	background-color: rgba(0, 0, 0, 0.08);
+}
+.uiButtonSpecial {
+	border-color: rgb(66, 183, 42); background-color: rgb(66, 183, 42);
+}
+.uiButtonSpecial:hover {
+	border-color: rgb(54, 164, 32); background-color: rgb(54, 164, 32);
+}
+.uiButtonSpecial:active {
+	border-color: rgb(43, 146, 23); background-color: rgb(43, 146, 23);
+}
+.uiButtonDepressed.uiButtonSpecial {
+	border-color: rgb(43, 146, 23); background-color: rgb(43, 146, 23);
+}
+form.async_saving .uiButtonSpecial.uiButton {
+	border-color: rgb(172, 224, 162); background-color: rgb(172, 224, 162);
+}
+.uiButtonDisabled.uiButtonSpecial {
+	border-color: rgb(172, 224, 162); background-color: rgb(172, 224, 162);
+}
+.uiButtonDisabled.uiButtonSpecial:active {
+	border-color: rgb(172, 224, 162); background-color: rgb(172, 224, 162);
+}
+.uiButtonDisabled.uiButtonSpecial:focus {
+	border-color: rgb(172, 224, 162); background-color: rgb(172, 224, 162);
+}
+.uiButtonDisabled.uiButtonSpecial:hover {
+	border-color: rgb(172, 224, 162); background-color: rgb(172, 224, 162);
+}
+.uiButtonConfirm {
+	border-color: rgb(41, 72, 125); background-color: rgb(66, 103, 178);
+}
+.uiButtonConfirm:hover {
+	border-color: rgb(41, 72, 125); background-color: rgb(54, 88, 153);
+}
+.uiButtonConfirm:active {
+	border-color: rgb(41, 72, 125); background-color: rgb(41, 72, 125);
+}
+.uiButtonDepressed.uiButtonConfirm {
+	border-color: rgb(41, 72, 125); background-color: rgb(41, 72, 125);
+}
+form.async_saving .uiButtonConfirm.uiButton {
+	border-color: rgb(156, 180, 216); background-color: rgb(156, 180, 216);
+}
+.uiButtonDisabled.uiButtonConfirm {
+	border-color: rgb(156, 180, 216); background-color: rgb(156, 180, 216);
+}
+.uiButtonDisabled.uiButtonConfirm:active {
+	border-color: rgb(156, 180, 216); background-color: rgb(156, 180, 216);
+}
+.uiButtonDisabled.uiButtonConfirm:focus {
+	border-color: rgb(156, 180, 216); background-color: rgb(156, 180, 216);
+}
+.uiButtonDisabled.uiButtonConfirm:hover {
+	border-color: rgb(156, 180, 216); background-color: rgb(156, 180, 216);
+}
+form.async_saving .uiButtonSpecial.uiButton .uiButtonText {
+	color: rgb(255, 255, 255);
+}
+form.async_saving .uiButtonSpecial.uiButton input {
+	color: rgb(255, 255, 255);
+}
+form.async_saving .uiButtonConfirm.uiButton .uiButtonText {
+	color: rgb(255, 255, 255);
+}
+form.async_saving .uiButtonConfirm.uiButton input {
+	color: rgb(255, 255, 255);
+}
+.uiButtonSpecial .uiButtonText {
+	color: rgb(255, 255, 255);
+}
+.uiButtonSpecial input {
+	color: rgb(255, 255, 255);
+}
+.uiButtonDisabled.uiButtonSpecial .uiButtonText {
+	color: rgb(255, 255, 255);
+}
+.uiButtonDisabled.uiButtonSpecial input {
+	color: rgb(255, 255, 255);
+}
+.uiButtonConfirm .uiButtonText {
+	color: rgb(255, 255, 255);
+}
+.uiButtonConfirm input {
+	color: rgb(255, 255, 255);
+}
+.uiButtonDisabled.uiButtonConfirm .uiButtonText {
+	color: rgb(255, 255, 255);
+}
+.uiButtonDisabled.uiButtonConfirm input {
+	color: rgb(255, 255, 255);
+}
+form.async_saving .uiButton {
+	border-color: rgb(221, 223, 226); background-color: rgb(245, 246, 247);
+}
+.uiButtonDisabled {
+	border-color: rgb(221, 223, 226); background-color: rgb(245, 246, 247);
+}
+.uiButtonDisabled:active {
+	border-color: rgb(221, 223, 226); background-color: rgb(245, 246, 247);
+}
+.uiButtonDisabled:focus {
+	border-color: rgb(221, 223, 226); background-color: rgb(245, 246, 247);
+}
+.uiButtonDisabled:hover {
+	border-color: rgb(221, 223, 226); background-color: rgb(245, 246, 247);
+}
+form.async_saving .uiButton .img {
+	opacity: 0.5;
+}
+.uiButtonDisabled .img {
+	opacity: 0.5;
+}
+form.async_saving .uiButtonText {
+	color: rgb(190, 195, 201);
+}
+form.async_saving .uiButton input {
+	color: rgb(190, 195, 201);
+}
+.uiButtonDisabled .uiButtonText {
+	color: rgb(190, 195, 201);
+}
+.uiButtonDisabled input {
+	color: rgb(190, 195, 201);
+}
+form.async_saving .uiButton {
+	cursor: default;
+}
+form.async_saving .uiButtonText {
+	cursor: default;
+}
+form.async_saving .uiButton input {
+	cursor: default;
+}
+.uiButtonDepressed {
+	cursor: default;
+}
+.uiButtonDepressed .uiButtonText {
+	cursor: default;
+}
+.uiButtonDepressed input {
+	cursor: default;
+}
+.uiButtonDisabled {
+	cursor: default;
+}
+.uiButtonDisabled .uiButtonText {
+	cursor: default;
+}
+.uiButtonDisabled input {
+	cursor: default;
+}
+:not(.uiButtonSpecial):not(.uiButtonConfirm).uiButtonDepressed .uiButtonText {
+	color: rgb(64, 128, 255);
+}
+:not(.uiButtonSpecial):not(.uiButtonConfirm).uiButtonDepressed input {
+	color: rgb(64, 128, 255);
+}
+.uiButtonLarge {
+	line-height: 19px; font-size: 13px;
+}
+.uiButtonLarge .uiButtonText {
+	line-height: 19px; font-size: 13px;
+}
+.uiButtonLarge input {
+	line-height: 19px; font-size: 13px;
+}
+.uiButtonSuppressed {
+	background: none; border-color: transparent;
+}
+.uiButtonNoText .img {
+	margin-right: -1px; margin-left: -1px;
+}
+.uiButtonNoText input {
+	vertical-align: top;
+}
+.uiButtonGroup {
+	padding: 0px; border-radius: 3px; border: 1px solid rgba(0, 0, 0, 0.35); border-image: none; display: inline-block; white-space: nowrap; background-clip: padding-box; background-color: rgb(255, 255, 255);
+}
+.uiButtonGroup .uiButtonGroupItem {
+	border-color: rgba(0, 0, 0, 0.15); vertical-align: top; border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.uiButtonGroup .firstItem {
+	border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+.uiButtonGroup .uiSelector {
+	vertical-align: top;
+}
+.uiButtonGroup .uiButton {
+	vertical-align: top;
+}
+.uiButtonGroup .selectorItem .uiSelector {
+	margin: -1px;
+}
+.uiButtonGroup .selectorItem .uiPopoverButton {
+	margin: -1px;
+}
+.uiButtonGroup .buttonItem .uiButton {
+	margin: -1px;
+}
+.uiButtonGroup .uiButtonLarge {
+	padding: 2px 8px;
+}
+.uiButtonGroup .uiPopoverButtonWithChevron {
+	padding-right: 23px;
+}
+.uiButtonGroup .uiButtonOverlay {
+	border-color: transparent; background-clip: padding-box;
+}
+.uiButtonGroupOverlay .uiButtonGroupItem .uiButtonDisabled {
+	border-color: transparent; background-clip: padding-box;
+}
+.uiButtonGroupOverlay .uiButtonGroupItem .uiButtonDisabled:hover {
+	border-color: transparent; background-clip: padding-box;
+}
+.uiButtonGroupOverlay .uiButtonGroupItem .uiButtonDisabled:active {
+	border-color: transparent; background-clip: padding-box;
+}
+.uiButtonGroupOverlay .uiButtonGroupItem .uiButtonDisabled:focus {
+	border-color: transparent; background-clip: padding-box;
+}
+.uiButtonGroup .selectorItem .openToggler .uiButton {
+	position: relative; z-index: 1;
+}
+.uiButtonGroup .buttonItem .uiButtonSpecial {
+	position: relative; z-index: 1;
+}
+.uiButtonGroup .buttonItem .uiButtonConfirm {
+	position: relative; z-index: 1;
+}
+.uiButtonGroupOverlay .buttonItem .uiButtonDepressed.uiButtonOverlay {
+	background-color: rgba(0, 0, 0, 0.08);
+}
+.uiButtonGroupOverlay .uiButton {
+	border-radius: 0px;
+}
+.uiButtonGroupOverlay .firstItem .uiButton {
+	border-top-left-radius: 2px; border-bottom-left-radius: 2px;
+}
+.uiButtonGroupOverlay .lastItem .uiButton {
+	border-top-right-radius: 2px; border-bottom-right-radius: 2px;
+}
+#bootloader_Za5Ci {
+	height: 42px;
+}
+.bootloader_Za5Ci {
+	display: block !important;
+}
